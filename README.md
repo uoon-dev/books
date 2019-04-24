@@ -20,6 +20,7 @@
   - mysql troubleshooting
   - 도메인 주도 설계
   - 코딩을 지탱하는 기술
+  - computer networking a top-down approach
 
 
 ### books read
