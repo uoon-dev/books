@@ -17,6 +17,9 @@
   - 컴퓨터 과학이 여는 세계
   - gof의 디자인 패턴
   - The Computer and the Brain
+  - mysql troubleshooting
+  - 도메인 주도 설계
+  - 코딩을 지탱하는 기술
 
 
 ### books read
@@ -32,6 +35,7 @@
 - 2019
   - 위대한 탈출
   - 부자 아빠 가난한 아빠
+  - 동물 해방
 
 ### books read
 - 2019
