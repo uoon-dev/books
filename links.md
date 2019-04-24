@@ -1,5 +1,5 @@
 # 읽을 거리 모음 링크
 ## 개발
 1. [개발자 필독선](https://www.sangkon.com/2018/08/27/good_books_for_dev_2018/?fbclid=IwAR2jXmcLeU0feIkf4FEiM-ugjccWupJOdYYvYJUYX3qDlrXwGbV70exEQmU)
-
+2. [모던 웹브라우저에 대해서](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 ## 기타
