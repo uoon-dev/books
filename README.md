@@ -21,6 +21,7 @@
   - 도메인 주도 설계
   - 코딩을 지탱하는 기술
   - computer networking a top-down approach
+  - 그림으로 공부하는 오라클 구조
 
 
 ### books read
