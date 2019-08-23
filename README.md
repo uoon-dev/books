@@ -13,7 +13,7 @@
   - 마이크로서비스 아키텍처 구축
   - 실전 aws 워크북
   - tcp/ip network administration
-  - operating system concepts
+  - operating system concepts (Abraham Silberschatz)
   - 컴퓨터 과학이 여는 세계
   - gof의 디자인 패턴
   - The Computer and the Brain
@@ -23,6 +23,9 @@
   - computer networking a top-down approach
   - 그림으로 공부하는 오라클 구조
   - 황제의 새마음
+  - SQL Antipatterns
+  - High Performance MySQL
+  - Compilers Principles Techniques, and Tools (Alfred V.Aho)
 
 
 ### books read
@@ -50,3 +53,7 @@
   - 데뷔의 순간 (봉준호 감독 특별편)
   - 이기적 직원들이 만드는 최고의 회사
 ## 소설
+### books read
+- 2019
+  - 헝거게임
+  
