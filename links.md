@@ -10,5 +10,6 @@
   
 
 - links read
-  - [15-ways-to-kill-your-mysql-application-performance](https://www.slideshare.net/guest9912e5/15-ways-to-kill-your-mysql-application-performance)
+  - [15-ways-to-kill-your-mysql-application-performance](https://www.slideshare.net/guest9912e5/15-ways-to-kill-your-mysql-application-
+  - [js memory](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
 ## 기타
