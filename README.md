@@ -37,6 +37,7 @@
   - 읽기 좋은 코드가 좋은 코드다
   - 서버 인프라를 지탱하는 기술
   - building microservices
+  - 게임 서버 프로그래밍 교과서
   
 ## 인문
 ### books to read
